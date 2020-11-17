@@ -26,3 +26,5 @@ Python, SQLAlchemy, PostgreSQL, dash, Tableau, продуктовые метри
 - Источник о России, затрагивающий тематику общественных проблем
 - Источник о кино с научным уклоном
 
+[Ссылка на интерактивный дашборд](https://public.tableau.com/views/Yandex_Dzen_15976834942910/Dashboard_main?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+
