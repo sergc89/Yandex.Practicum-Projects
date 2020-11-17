@@ -1,7 +1,4 @@
 
-### Структура базы данных об авиаперевозках
-![image](https://pictures.s3.yandex.net/resources/PK_FK_airports_1566761812.jpg)
-
 -- Запрос SQL для проверки гипотезы о влиянии фестивалей на спрос авиаперевозок
 SELECT
     SUBQ_1.week_number,
